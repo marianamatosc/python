@@ -2,4 +2,5 @@
 
 # Python
 
-Olá! Esse repositório é destinado a armazenar os scripts de análises feitas em python. 
+Olá! Esse repositório é destinado a armazenar os scripts de análises de bases de dados abertas feitas em python. Aqui você encontrará pastas que se referem a base de dados analisada. 
+
